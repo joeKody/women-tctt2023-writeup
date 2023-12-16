@@ -1,0 +1,10 @@
+Hard challenge. It requires an in-depth understanding of the given code file, and its underlying mechanism.
+
+Flag Format: WTCTT2023_WEB04{[a-z0-9]{32}}
+URL: https://chall4.wtctt2023.p7z.pw
+File: wtctt_2023_web4_sourcecode.zip (https://aba8c6b29665ee5e854c60fa70bd7c5a.r2.cloudflarestorage.com/wtctt2023/wtctt_2023_web4_sourcecode.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=4abcfc1133dd56807b5eb6e04e7c6d95%2F20231213%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231213T170136Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f0487e514490b00bd7dc4af86e3e72f3cedc69abaa44e54d5f3b767de8265d28)
+SHA256 Checksum: f57bd77c98240eeb804654299f0f3eadfbf7e92e1a2d2205a9e85aea85c896a2
+
+Hint 1: Directory Fuzzing is NOT required (no hidden files / web pages).
+Hint 2: Online password brute forcing (dictionary attack) is NOT required.
+Hint 3: The challenge is designed to be exploited manually without automated security scanners.

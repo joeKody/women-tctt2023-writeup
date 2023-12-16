@@ -1,0 +1,9 @@
+Read one file and it will lead you to new clues. The challenge consists of 2 vHost, but you do not need to perform vHost Fuzzing (please avoid doing it).
+
+Flag Format: WTCTT2023_WEB03{[a-z0-9]{32}}
+URL: http://chall3.wtctt2023.p7z.pw
+Hidden vHost URL Pattern: https://?????.chall3.wtctt2023.p7z.pw
+
+Hint 1: Directory Fuzzing is NOT required (no hidden files / web pages).
+Hint 2: Online password brute forcing (dictionary attack) is NOT required.
+Hint 3: The challenge is designed to be exploited manually without automated security scanners.

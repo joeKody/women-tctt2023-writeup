@@ -1,0 +1,8 @@
+Get the jackpot with the slot.
+
+Flag format: WTCTT2023_MOB04{[a-z0-9]{32}}
+File: sh.sth.secguy888.apk
+
+https://aba8c6b29665ee5e854c60fa70bd7c5a.r2.cloudflarestorage.com/wtctt2023/sh.sth.secguy888.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=4abcfc1133dd56807b5eb6e04e7c6d95%2F20231215%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231215T171302Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ab97a047c8ffba41bf5465dbc02db60abb6c0bae418114377f1fbe69e5ccfb82
+
+SHA256 Checksum: 450c8abb1ec0b4ffc18f4c3992007738c8439e8d8d6a6d22a3e8ebbed0d827cf

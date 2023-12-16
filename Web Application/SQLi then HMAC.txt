@@ -1,0 +1,8 @@
+Vanilla SQL Injection without protection, and then abuse an insufficient cryptography issue.
+
+Flag Format: WTCTT2023_WEB02{[a-z0-9]{32}}
+URL: https://chall2.wtctt2023.p7z.pw
+
+Hint 1: Directory Fuzzing is NOT required (no hidden files / web pages).
+Hint 2: Online password brute forcing (dictionary attack) is NOT required.
+Hint 3: The challenge is designed to be exploited manually without automated security scanners.
