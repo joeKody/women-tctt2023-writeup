@@ -1,9 +1,12 @@
 # JRot N
 
 - ข้อนี้เหมือนจะให้ hex มาผมเลยลองนำ `WCTF23{` ไปเข้า hex ดู
+
 ![image](https://github.com/joeKody/wongyos-ctf-writeup/assets/115410150/6fb8c983-653b-44ae-85a4-a60d66025e31)
+
 - และดูเหมือนว่า ค่าhex จะต่างจากที่โจทย์ให้มานิด ๆ
 - จะพบว่ามันต่างกัน โดยโดดเพิ่มทีละ 1 ตามรูป
+
 ![image](https://github.com/joeKody/wongyos-ctf-writeup/assets/115410150/a96b4858-463d-4678-8724-13e31b83a3c1)
 - รู้แล้วก็เข้า Python เลยฮะ
 - โดยผมนำสิ่งมี่โจทย์ให้ไป `from hex` แล้ว `to decimal` ก่อนค่อยยัด python เพราะมันง่ายดี
